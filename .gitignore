@@ -1,0 +1,34 @@
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio project user folder
+.Rproj.user/
+
+# Temporary files
+*.tmp
+*.temp
+
+# R Markdown cache & generated files
+*_cache/
+cache/
+*.utf8.md
+*.knit.md
+
+# HTML/PDF outputs (optional — uncomment if you don't want to track them)
+# *.html
+# *.pdf
+
+# R package build files (not relevant now but useful later)
+*.o
+*.so
+*.dll
+*.Rcheck/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Quarto/Rmarkdown temporary folders
+*_files/
