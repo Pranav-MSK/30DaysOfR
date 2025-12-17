@@ -1,0 +1,59 @@
+# Day 4: R Data Structures
+
+Data structures are used to store and organize values. R provides many built-in data structures. Each is used to handle data in different ways:
+
+-   Vectors
+-   Lists
+-   Matrices
+-   Arrays
+-   Data Frames
+
+### Vector
+
+Stores data of the same type in a linear format
+
+``` r
+numbers <- c(1,3,5,7,9)
+```
+
+### List
+
+Can hold different types of data in one structure. You can combine numbers, strings, vectors, and even other lists.
+
+``` r
+details <- list("Arjun", 23, TRUE)
+```
+
+### Matrices
+
+A 2D data structure where all elements are of the same type. It stores data in the form of tables - rows and columns.
+
+``` r
+mat1 <- matrix(1:12, nrow=3, ncol=4, byrow=TRUE)
+print(mat1)
+```
+
+### Arrays
+
+Stores elements of same data type in multiple dimensions. It is similar to matrices, but can store data in more than 2 dimensions (ie., 3D)
+
+``` r
+arr <- array(1:24, dim = c(4, 3, 2))
+arr
+```
+
+### Data Frames
+
+Data Frames are like tabular or rectangular data. It stores/holds data across multiple columns. Each value has its own cell. Each column is named. Can be created using a dataset.
+
+``` r
+df <- data.frame (
+  Training = c("Strength", "Stamina", "Other"),
+  Pulse = c(100, 150, 120),
+  Duration = c(60, 30, 45)
+)
+
+df
+```
+
+------------------------------------------------------------------------
