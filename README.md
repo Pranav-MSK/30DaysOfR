@@ -25,7 +25,7 @@ Day03/
 Day30/
 ```
 
-Inside each folder, you may find:
+Inside the folder, you may find:
 - `.R` scripts (practice code)
 - `.Rmd` notebooks (notes, examples, analyses)
 - datasets used for exercises
