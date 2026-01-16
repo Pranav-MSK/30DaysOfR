@@ -27,7 +27,7 @@ plot(1:10, main="Fun Plots", xlab="X axis", ylab="Y axis")
 plot(1:25, col="blue", type="l")
 
 # Plot sizes
-# Use cex=number to change the size of the points (1 is default, while 0.5 means 50% smaller, and 2 means 100% larger)
+# Use cex = number to change the size of the points (1 is default, while 0.5 means 50% smaller, and 2 means 100% larger)
 
 plot(1:25, cex=6, type="b")
 
