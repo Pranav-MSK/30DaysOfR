@@ -9,15 +9,14 @@ Below listed are the resources I used to learn R Programming
 - [Our Coding Club - GitHub](https://ourcodingclub.github.io/tutorials.html)
 
 #### Files
-- [Visualization](../30DaysOfR/Resources/R_Data%20Visualization.r)
--
--
--
--
--
+- [Visualization](/Resources/R_Data%20Visualization.r)
+- [Descriptive Statistics](/Resources/R_Descriptive%20Statistics.R)
+- [Packages](/Resources/R_dplyr,%20tidyr%20packages.R)
+- Working with Files and Packages [I](/Resources/R_Fundamental%20Commands%20I.R) ,  [II](/Resources/R_Fundamental%20Commands%20II.R)
+- [Linear Regression](/Resources/R_Linear%20Regression-I.R)
+- [Regression](/Resources/Regression%202.R)
 
 ---
-
 
 
 *Resources will be updated as and when referred to*
