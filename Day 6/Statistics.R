@@ -4,7 +4,7 @@
 
 # Create a sample dataset
 data <- c(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
-
+print(data)
 # Calculate mean
 mean_value <- mean(data)
 print(paste("Mean:", mean_value))
