@@ -33,6 +33,22 @@ Inside the folder, you may find:
 
 ---
 
+## 📅 Learning Progress
+
+> Note: This is a progress-based learning log. Sessions may not be completed on consecutive days.
+
+| Day | Topics Covered | Status |
+|-----|----------------|--------|
+| Day 01 | Syntax, Comments & Operators | ✅ |
+| Day 02 | I/O, Variables & Data Types | ✅ |
+| Day 03 | Control Structures & Functions | ✅ |
+| Day 04 | Data Structures | ✅ |
+| Day 05 | Plots & Charts | ✅ |
+| Day 06 | Statistics | ✅ |
+| Day 07 | — | ⏳ |
+| … | … | … |
+
+
 ## 🧰 Tools Used
 - `R`
 - `RStudio`
