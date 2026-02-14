@@ -20,3 +20,4 @@ print(paste("Standard Deviation:", sd_value))
 # Calculate variance
 variance_value <- var(data)
 print(paste("Variance:", variance_value))
+
