@@ -29,8 +29,17 @@ file.exists("demo.txt")
 iris10 <- read.table("Trial.txt")
 print(iris10)
 
-# 6. List all files in directory
+#6. List all files in directory
 # list.files(path)
 
 list.files()
 
+#7. Copying a File
+# file.copy() - used to copy files
+
+file.copy("Trial.txt", "")
+
+#8. Create a Directory
+# dir.create(path) - to create a directory in the specified path.
+
+dir.create(path="../TrialDirectory")
